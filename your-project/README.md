@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of Your Project
+# Russian Roulette
 *[Your Name]*
 
 *[Your Cohort, Campus & Date]*
@@ -13,10 +13,9 @@
 - [Links](#links)
 
 ## Project Description
-Write a short description of your project. Write 1-2 sentences about the game you chose to build and why.
-
+The game is composed of 2 players, each player pull the trigger till one of them is dead
 ## Rules
-Briefly describe the rules of the game.
+2 players, 1 revolver, 6 shots
 
 ## Workflow
 Outline the workflow you used in your project. What are the steps you went through?
